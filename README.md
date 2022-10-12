@@ -1,2 +1,3 @@
 # DiscordBot
-A nice Discord Bot!
+
+My Project working with the Discord.NET Library!
